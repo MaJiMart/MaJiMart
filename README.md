@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning to program, so far I learned: 
 <p> 
-<img src='public/readme/html.svg' height='50px'> <img src='public/readme/css.svg' height='50px'> <img src='public/readme/sass.svg' height='50px'> <img src='public/readme/js.svg' height='50px'> <img src='public/readme/react.svg' height='50px'> <img src='public/readme/git.svg' height='50px'> <img src='public/readme/node.svg' height='50px'> <img src='public/readme/firebase.svg' height='50px'> <img src='public/readme/vite.svg' height='50px'> <img src='public/readme/canva.svg' height='50px'> 
+<img src='html.svg' height='50px'> <img src='css.svg' height='50px'> <img src='sass.svg' height='50px'> <img src='js.svg' height='50px'> <img src='react.svg' height='50px'> <img src='git.svg' height='50px'> <img src='node.svg' height='50px'> <img src='firebase.svg' height='50px'> <img src='vite.svg' height='50px'>
 </p>
 
 👯 I'm currently learning to program and I am looking to collaborate on small projects to improve my knowledge
