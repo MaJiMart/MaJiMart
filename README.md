@@ -98,10 +98,6 @@
 
 ###
 
-<p align="left">· LinkedIn: https://www.linkedin.com/in/majimart/<br>· Discord: JimeMart#8820<br>· Email: majimartinez@gmail.com</p>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/majimart/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"> https://www.linkedin.com/in/majimart/</img>
