@@ -88,7 +88,7 @@
 
 ###
 
-<p align="left">· LinkedIn: https://www.linkedin.com/in/majimart/<br>· Discord: JimeMart#8820<br>· Email: majimart.dev@gmail.com</p>
+<p align="left">· LinkedIn: https://www.linkedin.com/in/majimart/<br>· Discord: JimeMart#8820<br>· Email: majimartinez@gmail.com</p>
 
 ###
 
