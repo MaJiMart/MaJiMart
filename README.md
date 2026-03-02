@@ -1,4 +1,3 @@
-<img src="https://i.postimg.cc/0jWJ2Hk1/Arcade-Diary-Header.png" width="100%" alt="Arcade Engineering Diary" />
 <h1 align="left">Hey, what's up?</h1>
 
 ###
