@@ -1,4 +1,4 @@
-<h1>___|  |___|  |___|  |___|  |___|  |___|  |___|  |___|  |___|  |___|  |___|  |___</h1>
+<h1>___|  |___|  |___|  |___|  |___|  |___|  |___|  |___|  |___|  |___|  |___</h1>
 ###
 
 <p align="left">My name is Jimena and I'm a Junior Fullstack Developer based in Spain.</p>
