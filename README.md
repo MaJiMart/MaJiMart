@@ -2,15 +2,16 @@
 
 ###
 
-<p align="left">My name is Jimena and I'm a Junior Fullstack Programmer from Argentine, but I currently live in Spain.</p>
+<p align="left">My name is Jimena and I'm a Junior Fullstack Developer based in Spain.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">📓 Learning Log & Engineering Diary</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br><br>👯 I'm currently learning to program and I am looking to collaborate on small projects to improve my knowledge<br><br>🎯 Goals: Belong to a work team that embraces new challenges, encourages growth and makes the work day more fun 😊</p>
+<p align="left">This GitHub is my personal playground for technical experimentation. Here, I document my progress, the challenges I’ve tackled, and the journey of building my tech stack. You won’t just find finished code here—you’ll see the footprint of my continuous learning.</p>
+<p align="left">✨ Iterating since 2022: Every commit is an improvement, and every bug is a lesson learned.<br><br>🚀 Active Learning: Currently focusing on diving deeper into scalable architectures, asynchronous flows, and making the transition toward strictly typed environments.<br><br>🎯 Goals: My goal is to bring my analytical mindset and eye for detail to a team that values technical quality and proactive problem-solving—all while embracing new challenges, encouraging growth, and making the workday more fun! 😊</p>
 
 ###
 
