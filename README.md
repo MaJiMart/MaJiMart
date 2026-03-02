@@ -1,6 +1,4 @@
-```text
-  __|  |__|  |__|  |__|  |__|  |__|  |__|  |__|  |__|  |__|  |__|  |__|  |__|  |__|  |__
-```
+&nbsp; __|&nbsp;&nbsp;|__|&nbsp;&nbsp;|__|&nbsp;&nbsp;|__|&nbsp;&nbsp;|__|&nbsp;&nbsp;|__|&nbsp;&nbsp;|__|&nbsp;&nbsp;|__|&nbsp;&nbsp;|__|&nbsp;&nbsp;|__|&nbsp;&nbsp;|__
 <h1 align="left">Hey, what's up?</h1>
 
 ###
