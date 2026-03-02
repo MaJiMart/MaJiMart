@@ -1,4 +1,4 @@
-
+<img src="./Libreta-Jimena.jpeg" width="100%" alt="Notebook Header Clear" />
 
 <p align="left">My name is Jimena and I'm a Junior Fullstack Developer based in Spain.</p>
 
