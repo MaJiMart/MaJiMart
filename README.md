@@ -1,5 +1,6 @@
+``` text
 <h3>___|         |___|    |___|    |___|    |___|    |___|    |___|    |___|    |___|    |___|    |___|    |___|    |___|    |___|    |___|    |___|    |___|    |___</h3>
-
+```
 
 <p align="left">My name is Jimena and I'm a Junior Fullstack Developer based in Spain.</p>
 
