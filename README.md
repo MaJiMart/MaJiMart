@@ -1,3 +1,4 @@
+<img src="https://i.postimg.cc/mD8RzSjL/notebook-header.png" width="100%" alt="Notebook Paper Header" />
 <h1 align="left">Hey, what's up?</h1>
 
 ###
