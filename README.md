@@ -6,18 +6,18 @@
 <p align="left">My name is Jimena and I'm a Junior Fullstack Developer based in Spain.</p> 
 
 ###
-<!-- <h2 align="left">📓 Learning Log</h2>
+<!-- <h2 align="left">📓 Learning Log</h2>-->
 
-### -->
+### 
 
 <p align="left">Here, I document my progress, the challenges I’ve tackled, and the journey of building my tech stack. You won’t just find finished code here—you’ll see the footprint of my continuous learning.</p>
 <p align="left">✨ Iterating since 2022: Every commit is an improvement, and every bug is a lesson learned.<br><br>🚀 Active Learning: Currently focusing on diving deeper into scalable architectures, asynchronous flows, and making the transition toward strictly typed environments.<br><br>🎯 Goals: My goal is to bring my analytical mindset and eye for detail to a team that values technical quality and proactive problem-solving, all while embracing new challenges, encouraging growth, and making the workday more fun! 😊</p>
 
 ###
 <img src="./Libreta-ICodeWith.png" width="100%" alt="I code with image" />
-<!-- <h2 align="left">I code with</h2> 
+<!-- <h2 align="left">I code with</h2> -->
 
-###-->
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -37,9 +37,9 @@
 
 ###
 <img src="./Libreta-CurrentlyLearning.png" width="100%" alt="Currently learning image" />
-<!-- <h2 align="left">Currently learning</h2>
+<!-- <h2 align="left">Currently learning</h2>-->
 
-### -->
+### 
 
 <div align="left">          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
@@ -56,9 +56,9 @@
 
 ###
 <img src="./Libreta-OtherSkills.png" width="100%" alt="Other skills image" />
-<!-- <h3 align="left">Other skills</h3>
+<!-- <h3 align="left">Other skills</h3>-->
 
-### -->
+### 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -99,8 +99,8 @@
 </div>
 
 ###
-
-<h3 align="left">Design</h3>
+<img src="./Libreta-Design.png" width="100%" alt="Design image" />
+<!-- <h3 align="left">Design</h3> -->
 
 ###
 
@@ -114,9 +114,9 @@
 
 ###
 <img src="./Libreta-ContactMe.png" width="100%" alt="Contact me image" />
-<!-- <h2 align="left">Contact me</h2>
+<!-- <h2 align="left">Contact me</h2>-->
 
-### -->
+### 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/majimart/" target="_blank">
