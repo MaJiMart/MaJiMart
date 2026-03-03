@@ -5,11 +5,10 @@
 
 <p align="left">My name is Jimena and I'm a Junior Fullstack Developer based in Spain.</p> 
 
-###-->
-<img src="./Libreta-LearningLog.png" width="100%" alt="Learning Log image" />
-<!-- <h2 align="left">📓 Learning Log</h2> -->
-
 ###
+<!-- <h2 align="left">📓 Learning Log</h2>
+
+### -->
 
 <p align="left">Here, I document my progress, the challenges I’ve tackled, and the journey of building my tech stack. You won’t just find finished code here—you’ll see the footprint of my continuous learning.</p>
 <p align="left">✨ Iterating since 2022: Every commit is an improvement, and every bug is a lesson learned.<br><br>🚀 Active Learning: Currently focusing on diving deeper into scalable architectures, asynchronous flows, and making the transition toward strictly typed environments.<br><br>🎯 Goals: My goal is to bring my analytical mindset and eye for detail to a team that values technical quality and proactive problem-solving, all while embracing new challenges, encouraging growth, and making the workday more fun! 😊</p>
