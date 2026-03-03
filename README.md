@@ -1,9 +1,9 @@
 <!-- <img src="./AnillasLibretaSinFondo.png" width="100%" alt="Notebook Header Clear" /> -->
 <img src="./Libreta.png" width="100%" alt="Notebook Header Clear" />
 
-<h1>Hey, what's up?</h1>
+<!-- <h1>Hey, what's up?</h1>
 
-<p align="left">My name is Jimena and I'm a Junior Fullstack Developer based in Spain.</p>
+<p align="left">My name is Jimena and I'm a Junior Fullstack Developer based in Spain.</p> -->
 
 ###
 
