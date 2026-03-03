@@ -129,4 +129,4 @@
 </div>
 
 ###
-<img src="./Libreta-Footer.png" width="100%" alt="foother image" />
+<img src="./Libreta-Footer.png" width="100%" alt="footer image" />
