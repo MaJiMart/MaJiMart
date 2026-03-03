@@ -128,5 +128,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo">majimartinez@gmail.com</img>
 </div>
 
-<img src="./Libreta-Foother.png" width="100%" alt="foother image" />
 ###
+<img src="./Libreta-Foother.png" width="100%" alt="foother image" />
