@@ -1,4 +1,5 @@
-<img src="./AnillasLibretaSinFondo.png" width="100%" alt="Notebook Header Clear" />
+<!-- <img src="./AnillasLibretaSinFondo.png" width="100%" alt="Notebook Header Clear" /> -->
+<img src="./Libreta.png" width="100%" alt="Notebook Header Clear" />
 
 <h1>Hey, what's up?</h1>
 
